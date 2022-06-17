@@ -1,0 +1,56 @@
+*{
+    font-family: 'JetBrains Mono';
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none; 
+    background-color: black;
+} 
+
+.card{
+    background-color: white;
+    color: black;
+    margin: 90px auto 40px auto;
+    padding:20px 40px;
+    text-align: center;
+    width: 300px;
+    height: 510px;
+    border-radius: 20px;
+}
+
+.card__title{
+    background-color:white ;
+    margin: 0 auto;
+    padding: auto;
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;;
+}
+
+
+.card__text{
+    background-color:white;
+    color:black;
+    margin-bottom: 25px;
+    padding-top: 20px;
+}
+
+
+.img__card{
+    background-color:white ;
+    width: 230px;
+    height: 300px;
+    border-radius: inherit;
+}
+
+.card__btn{
+    display: inline-block;
+    background-color:black;
+    color:white ;
+    margin-top: 20px;
+    padding: 10px 0px 1px 0px;
+    text-align: center;
+    margin-left: 10px; 
+    width: 200px;
+    height: 30px;
+    border-radius: inherit;
+}
+
