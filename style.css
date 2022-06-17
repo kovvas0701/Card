@@ -9,7 +9,7 @@
 .card{
     background-color: white;
     color: black;
-    margin: 90px auto 40px auto;
+    margin: 150px auto 40px auto;
     padding:20px 40px;
     text-align: center;
     width: 300px;
@@ -31,6 +31,7 @@
     color:black;
     margin-bottom: 25px;
     padding-top: 20px;
+    font-weight: 400;
 }
 
 
